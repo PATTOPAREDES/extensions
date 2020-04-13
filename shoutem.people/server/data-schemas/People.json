@@ -44,11 +44,11 @@
       "format": "single-line",
       "title": "Email",
       "displayPriority": 7
-    },
-    "linkedinProfileUrl": {
+      },
+    "instagramProfileUrl": {
       "type": "string",
       "format": "uri",
-      "title": "LinkedIn profile URL",
+      "title": "Instagram profile URL",
       "displayPriority": 8
     },
     "facebookProfileUrl": {
